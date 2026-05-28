@@ -1,0 +1,50 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: hotpink;
+  color: blue;
+}
+  
+  header {
+    background-color: pink;
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom:5px solid yellowgreen;
+  }
+
+h1 {
+  margin: 0;
+  font-size: 60px;
+}
+
+.subtitle {
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+.container {
+  width: 70%;
+  max-width:500px;
+  margin: 40px;
+  display: flat;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;  
+}
+
+.card{
+  background-color: lightyellow;
+  padding: 40px;
+  border-radius: 80px;
+  width: 300px;
+  box-shadow: 7px 6px 12px;
+  
+}
+h1 {
+  text-align: center;
+  color: seagreen;
+  font-size: 50px;
+  font-family: sans-serif;
+  
+}
